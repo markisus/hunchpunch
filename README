@@ -5,6 +5,7 @@
 # Basically, it's an all javascript game that leverages the Hunch API
 ################################################################################
 
+Demo: http://bit.ly/playhunchpunch
 We coded this up for the HackNY hackathon (Spring 2011), a fun little thing that uses Canvas and Hunch.
 
 CONTRIB
